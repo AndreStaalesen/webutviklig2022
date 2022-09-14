@@ -1,0 +1,16 @@
+body{
+    max-width: 800px;
+    width: 100%;
+margin: 0 auto;
+background-color:deeppink;
+color: black;
+}
+
+img{
+max-width: fit-content;
+
+}
+
+article{
+
+}
